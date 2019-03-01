@@ -1,0 +1,7 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/VNDong/SpwanParticle
+branches:
+- master
+projects:
+  SpwanParticle:
+    path: ""
+...
